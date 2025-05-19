@@ -12,7 +12,7 @@ interface ChatRequest {
 }
 
 // Hard-coded API key for this example
-const GROQ_API_KEY = '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';
+const GROQ_API_KEY ='';
 
 // Validate the request body
 function isValidRequest(body: any): body is ChatRequest {
