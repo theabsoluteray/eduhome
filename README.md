@@ -27,9 +27,9 @@ A modern educational website featuring a multilingual AI assistant powered by Gr
    ```
    npm install
    ```
-3. Create a `.env.local` file in the root directory with your Groq API key:
+3. put the groq api key in "app/api/groq/route.ts"
    ```
-   GROQ_API_KEY=your_api_key_here
+   const GROQ_API_KEY ='';
    ```
 4. Run the development server:
    ```
