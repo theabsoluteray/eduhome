@@ -45,4 +45,4 @@ Make sure you have:
 
 ## License
 
-MIT 
+MIT.
