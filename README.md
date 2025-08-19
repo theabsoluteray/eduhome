@@ -43,6 +43,5 @@ Make sure you have:
 - Node.js 18.17.0 or newer
 - A Groq API key (get one from [Groq's website](https://console.groq.com))
 
-## License
+![preview](https://media.discordapp.net/attachments/1370958073102991463/1407429221327966269/image.png?ex=68a6121b&is=68a4c09b&hm=992b7323059dcaa9530f943263731eed9e6ec58b9db8b52e397795a4c17e5fd5&=&format=webp&quality=lossless&width=688&height=340)
 
-MIT 
